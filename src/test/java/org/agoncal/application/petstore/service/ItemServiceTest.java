@@ -50,7 +50,7 @@ public class ItemServiceTest
    @Test
    public void should_be_deployed()
    {
-      Assert.assertNotNull(itemservice);
+      Assert.assertNotNull(null);
    }
 
    @Test
